@@ -12,14 +12,6 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RMCF.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
 			<dict>
@@ -34,97 +26,9 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-BrightKeyQ14Q15-TP.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-SMBUS.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-LPC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-CPU.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-@Infolittle-DATA.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-DGPU.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-ECDT.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-Fans-TP.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-Keyboard.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PCIList.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-REDpoint-yn.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
 				<false/>
 				<key>Path</key>
-				<string>SSDT-T460P-BATT.aml</string>
+				<string>SSDT-DGPU.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -138,33 +42,17 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-T460P-DW1560.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-T460P-PTSWAK.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-T460P-USB.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-USBX.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-EC-USBX-LAPTOP.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -181,7 +69,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>T1NJRg==</data>
 				<key>Limit</key>
@@ -241,7 +129,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>S0JEXw==</data>
 				<key>Limit</key>
@@ -271,7 +159,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>S0JDMA==</data>
 				<key>Limit</key>
@@ -481,7 +369,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>X1BUUwE=</data>
 				<key>Limit</key>
@@ -511,7 +399,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>X1dBSwE=</data>
 				<key>Limit</key>
@@ -582,6 +470,36 @@
 				<data></data>
 				<key>Replace</key>
 				<data>RUgwMg==</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+				<key>Comment</key>
+				<string>GFX0 to IGPU</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>R0ZYMA==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>SUdQVQ==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -668,40 +586,22 @@
 				<data>GxkAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
-				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
-				<key>enable-lspcon-support</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con1-has-lspcon</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-preferred-lspcon-mode</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-type</key>
-				<data>AAQAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
 				<string>Intel HD Graphics 530</string>
-				<key>enable-hdmi-dividers-fix</key>
-				<data>AQAAAA==</data>
-				<key>enable-lspcon-support</key>
-				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -811,7 +711,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCLightSensor</string>
 				<key>MaxKernel</key>
@@ -832,24 +732,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCBatteryManager</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>ACPIBatteryManager_v1.90.1.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/ACPIBatteryManager</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1077,24 +959,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooInput</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1120,24 +984,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Keyboard</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooPS2Mouse</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1210,6 +1056,24 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>HibernationFixup.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/HibernationFixup</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1365,7 +1229,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>External</string>
+			<string>Builtin</string>
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
@@ -1453,7 +1317,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=28</string>
+				<string>keepsyms=1 alcid=28 -cdfon</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1526,9 +1390,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02140302D5DMT31M</string>
+			<string>C026014014NHCF9CB</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1793</integer>
 			<key>ROM</key>
 			<data>uAmKUT79</data>
 			<key>SpoofVendor</key>
@@ -1538,9 +1402,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SLHACGTFN</string>
+			<string>C02R2AYYGTFN</string>
 			<key>SystemUUID</key>
-			<string>4C01F19F-A928-B211-A85C-B730E0639AED</string>
+			<string>892075AE-D7E8-42A1-8407-091D91124564</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
